@@ -6,3 +6,4 @@ tags:
 languages:
   - ruby
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/basic-nested-forms-lab.git

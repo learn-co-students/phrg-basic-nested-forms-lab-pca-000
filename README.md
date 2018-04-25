@@ -26,4 +26,4 @@ The models and show routes and associations have been set up for you.
 
 Build a recipe form that accepts two ingredients! It should automatically create the new `Ingredient` objects.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/basic-nested-forms-lab' title='Basic Nested Forms Lab'>Basic Nested Forms Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Basic Nested Forms Lab</p>
