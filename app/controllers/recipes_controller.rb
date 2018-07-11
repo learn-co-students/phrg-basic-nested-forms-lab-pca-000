@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class RecipesController < ApplicationController
   def show
     @recipe = Recipe.find(params[:id])
@@ -11,6 +13,5 @@ class RecipesController < ApplicationController
     @recipe = Recipe.new
   end
 
-  def create
-  end
+  def create; end
 end
