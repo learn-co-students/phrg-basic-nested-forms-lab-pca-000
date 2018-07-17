@@ -44,5 +44,6 @@ group :development, :test do
   # running in the background. Read more: https://github.com/rails/spring
   gem "capybara"
   gem "rspec-rails", "~> 3.7"
+  gem "rubocop", "0.58.1"
   gem "spring"
 end
