@@ -26,4 +26,7 @@ The models and show routes and associations have been set up for you.
 
 Build a recipe form that accepts two ingredients! It should automatically create the new `Ingredient` objects.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-basic-nested-forms-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-basic-nested-forms-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Basic Nested Forms Lab</p>
